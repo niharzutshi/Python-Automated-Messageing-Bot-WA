@@ -1,6 +1,7 @@
 # Python-Automated-Messageing-Bot-WA
 
 Important thing required:- 
+
 Python
 PyCharm
 apt install pywhatkit on python terminal
